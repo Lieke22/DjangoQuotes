@@ -1,0 +1,12 @@
+- model: quotes.quote
+  pk: 1
+  fields:
+    author: John
+    quote: Lennon
+    image_url: 
+- model: quotes.quote
+  pk: 2
+  fields:
+    author: Paul
+    quote: McCartney
+    image_url:
