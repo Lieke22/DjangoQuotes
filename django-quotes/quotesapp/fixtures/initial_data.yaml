@@ -17,7 +17,7 @@
     quote: What the world needs is more genuises with humility, there are so few of us left.
     image_url:
 - model: quotes.quote
-  pk: 3
+  pk: 4
   fields:
     author: Ellen Par
     quote:  The cure for boredom is curiosity. There is no cure for curiosity.

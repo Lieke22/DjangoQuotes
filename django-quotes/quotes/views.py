@@ -22,3 +22,4 @@ def results(request, quote_id):
 
 def vote(request, quote_id):
     return HttpResponse("You're voting on quote %s." % quote_id)
+
